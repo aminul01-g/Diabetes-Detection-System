@@ -10,9 +10,9 @@ This project uses machine learning algorithms to predict whether a person is dia
 
 ## 🧠 Algorithms Used
 - Logistic Regression
-- Support Vector Machine (SVM)
+- KNeighborsClassifier (KNN)
+- DecisionTreeClassifier
 - Random Forest Classifier
-- K-Nearest Neighbors (KNN)
 
 ## ⚙️ Workflow
 1. Data Cleaning and Preprocessing
@@ -23,7 +23,7 @@ This project uses machine learning algorithms to predict whether a person is dia
 6. Results Visualization (Confusion Matrix, ROC Curve)
 
 ## 🎯 Results
-- Best Accuracy: **87%** (Random Forest)
+- Best Accuracy: **80%** (Random Forest)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
 
 ## 🚀 Tools & Technologies
@@ -38,5 +38,5 @@ This project uses machine learning algorithms to predict whether a person is dia
 
 ## 🔗 Project Links
 - [Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-- [Live Demo (Coming Soon)]()
+- [Live Demo](https://diabetes-detection-system-app.streamlit.app/)
 
